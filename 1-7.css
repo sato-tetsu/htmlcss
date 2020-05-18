@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+
+a {
+	color: gray;
+}
+
 .header-img{
 	width: 100%;
 	height: 400px;
@@ -18,3 +23,17 @@
 	font-weight: bold;
 	color: gray;
 }
+
+.main{
+	margin: 50px auto;
+	width: 840px;
+}
+
+.main-item{
+	width: 100%;
+	text-align: left;
+	border-bottom: 1px solid gray;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+}
+
